@@ -1,0 +1,85 @@
+body {
+    background-image: url(fundo.jpg);
+}
+
+
+
+header{
+    display: flex;
+    top:0;
+    right: 0;
+    width: 100%;
+    background: rgb(243, 203, 236);
+    justify-content: space-between;
+    border-radius: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+} 
+    
+
+.menu{
+    display: flex;
+    padding: 10px 20px;
+}
+
+.menu li{
+    padding: 10px 20px;
+    list-style: none;
+}
+
+
+
+
+.container2{
+    display: flex;
+    width: 80w;
+    height: 40rem;
+    margin: 0 auto;
+    justify-content: space-between;
+    align-items: center;
+    border: 2px solid black;
+    
+
+
+}
+
+.textos__container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 23rem;
+    border: 5px black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+ 
+.fotosobre{ 
+    
+    
+    border-radius: 50px; 
+    width: 280px; 
+    text-align: center;
+}
+
+
+.titulo{
+   align-items: center;
+   margin-left: auto;
+   margin-right: auto;
+   margin-top: 0px;
+   width: 280px;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+.texto2{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: justify;
+    margin-top: 0px;
+    margin: red;
+   font-size: 20px;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   
+}
+

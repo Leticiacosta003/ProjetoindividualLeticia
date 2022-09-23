@@ -1,0 +1,83 @@
+body {
+    background-image: url(/imagens/fundo.jpg);
+    
+    }
+header{
+        display: flex;
+        top:0;
+        right: 0;
+        width: 100%;
+        background: rgb(243, 203, 236);
+        justify-content: flex-end;
+        border-radius: 10px;
+        font-family: Georgia, 'Times New Roman', Times, serif;} 
+
+        
+
+    .menu{
+        display: flex;
+        padding: 10px 20px;
+        justify-content: flex-end;}
+
+    .menu li{
+        padding: 10px 20px;
+        list-style: none;
+        justify-content: flex-end;}
+
+    
+    h1{
+        color: rgb(5, 4, 5);
+        margin: 30px; 
+        text-align: center; 
+        height: 10px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+    .container1{
+        display: flex;
+        width: 80vw;
+        height: 40rem;
+        margin: 0 auto;
+        justify-content: space-between;
+        align-items: center;
+        flex-direction: column;
+    }
+
+.fotohome{
+    border-radius: 50px; 
+    width: auto;
+    text-align: center;
+    max-width: 40%;
+    height: 30rem
+
+}
+
+.texto1{ 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+
+}
+
+
+
+ p {
+        margin:  50px;
+        text-align: center;
+ }  
+ 
+ .titulo8{
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0px;
+ }
+
+
+ 
+
+
+    
+
+
+
+        
